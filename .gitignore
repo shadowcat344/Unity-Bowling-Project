@@ -9,6 +9,18 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Vv]scode/
+/[Vv]sconfig/
+/[Vv]s/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.suo
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
 
